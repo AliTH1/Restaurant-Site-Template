@@ -1,0 +1,331 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 100%;
+    height: 601px;
+    float: left;
+    background-image: url("../img/main-image.jpg");
+    background-size: cover;
+}
+
+.navbar{
+    width: 95%;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.left-side-navbar{
+    width: 50%;
+    height: 55px;
+    float: left;
+}
+
+.logo{
+    width: 120px;
+    height: 55px;
+    margin-left: 45px;
+    float: left;
+}
+
+.img-logo{
+    width: 110px;
+    height: 55px;
+}
+
+
+.right-side-navbar{
+    width: 40%;
+    height: 60px;
+    float: left;
+}
+
+.navbar-buttons{
+    width: 100%;
+    height: 60px;
+    float: left;
+}
+
+.div-home-button{
+    width: 60px;
+    height: 40px;
+    margin-top: 11px;
+    margin-left: 5px;
+    border-radius: 5px;
+    float: left;
+    background-color: coral;
+}
+
+.home-button{
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 9px;
+    float: left;
+}
+
+.home-button-text{
+    color: white;
+    text-decoration:none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div-menu-button{
+    width: 50px;
+    height: 60px;
+    margin-left: 15px;
+    float: left;
+}
+
+.menu-button{
+    width: 45px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+
+.menu-button-text{
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-about-button{
+    width: 50px;
+    height: 60px;
+    margin-left: 15px;
+    float: left;
+}
+
+.about-button{
+    width: 45px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+
+.about-button-text{
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div-pages-button{
+    width: 70px;
+    height: 60px;
+    margin-left: 15px;
+    float: left;
+}
+
+.pages-button{
+    width: 45px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+
+.pages-button-text{
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.page-chevron-down-icon{
+    margin-top: 24px;
+    margin-left: 5px;
+    font-size: 8px;
+    float: left;
+}
+
+
+.div-blog-button{
+    width: 65px;
+    height: 60px;
+    margin-left: 15px;
+    float: left;
+}
+
+.blog-button{
+    width: 41px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+
+.blog-button-text{
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.blog-chevron-down-icon{
+    margin-top: 24px;
+    font-size: 8px;
+    float: left;
+}
+
+
+.div-contact-button{
+    width: 75px;
+    height: 60px;
+    margin-left: 10px;
+    float: left;
+}
+
+.contact-button{
+    width: 45px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 3px;
+    float: left;
+}
+
+.contact-button-text{
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.content{
+    width: 100%;
+    height: 541px;
+    float: left;
+}
+
+.div-main-content{
+    width: 100%;
+    height: 430px;  
+    float: left;
+}
+
+.div-chevron-left-icon{
+    width: 30px;
+    height: 40px;
+    padding: 5px;
+    margin-top: 220px;
+    float: left;
+    background-color: coral;
+}
+
+.chevron-left-icon{
+    width: 25px;
+    height: 30px;
+    margin-top: 5px;
+    float: left;
+    color: white;
+}
+
+.center-content{
+    width: 93%;
+    height: 300px;
+    margin-top: 80px;
+    float: left;
+    /* background-color: white; */
+}
+
+.div-welcome-text{
+    width: 90%;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 50px;
+    float: left;
+}
+
+.div-welcome-text-1{
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+
+.welcome-text-1{
+    color: white;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-welcome-text-2{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+.welcome-text-2{
+    color: white;
+    font-size: 48px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div-description-text{
+    width: 95%;
+    height: 50px;
+    float: left;
+    margin-left: 50px;
+}
+
+.description-text{
+    width: 450px;
+    height: 40px;
+    float: left;
+}
+
+.description-span-text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.div-reservation-button{
+    width: 12%;
+    height: 45px;
+    margin-left: 50px;
+    float: left;
+    background-color: coral;
+}
+
+.reservation-button{
+    width: 100px;
+    height: 30px;
+    margin: 13px 0px 0px 22px;
+    float: left;
+}
+
+.reservation-text{
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-chevron-right-icon{
+    width: 30px;
+    height: 40px;
+    padding: 5px;
+    margin-top: 220px;
+    float: left;
+    background-color: coral;
+}
+
+.chevron-right-icon{
+    width: 25px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    color: white;
+}
+
+
+
